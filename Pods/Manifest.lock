@@ -1,0 +1,20 @@
+PODS:
+  - SocketRocket (0.6.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - SocketRocket (~> 0.6.0)
+  - SVProgressHUD (~> 2.2.5)
+
+SPEC REPOS:
+  trunk:
+    - SocketRocket
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: ac1bbe683768538a489e05aecf78d2f8b7771483
+
+COCOAPODS: 1.11.2
